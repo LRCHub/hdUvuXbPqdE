@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "V.S",
+  "base_artist": "大漠波新",
+  "createdAt": "2025-12-10T15:45:29.743222Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hero v.s. Villain (Epilogue)",
+      "artist": "MF DOOM feat. E. Mason",
+      "has_synced": true,
+      "path": "select/01_Hero_v.s._Villain_(Epilogue)_MF_DOOM_feat._E._Mason.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "V.S.O.P.",
+      "artist": "Above the Law",
+      "has_synced": false,
+      "path": "select/02_V.S.O.P._Above_the_Law.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Very Strange Medley (V.S.M.) - Live",
+      "artist": "Barry Manilow",
+      "has_synced": false,
+      "path": "select/03_A_Very_Strange_Medley_(V.S.M.)_-_Live_Barry_Manilow.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Very Strange Medley (V.S.M.)",
+      "artist": "Barry Manilow",
+      "has_synced": false,
+      "path": "select/04_A_Very_Strange_Medley_(V.S.M.)_Barry_Manilow.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "B.V.S.",
+      "artist": "Steel Panther",
+      "has_synced": true,
+      "path": "select/05_B.V.S._Steel_Panther.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Story (v.s. Finally) Bushwacka! Bootleg Verison",
+      "artist": "Layo&Bushwacka!",
+      "has_synced": false,
+      "path": "select/06_Love_Story_(v.s._Finally)_Bushwacka!_Bootleg_Verison_Layo&Bushwacka!.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hero v.s. Villain (Epilogue)",
+      "artist": "MF DOOM",
+      "has_synced": true,
+      "path": "select/07_Hero_v.s._Villain_(Epilogue)_MF_DOOM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "V.S",
+      "artist": "SFDK",
+      "has_synced": true,
+      "path": "select/08_V.S_SFDK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hero v.s. Villain (Epilogue)",
+      "artist": "MF DOOM",
+      "has_synced": true,
+      "path": "select/09_Hero_v.s._Villain_(Epilogue)_MF_DOOM.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "When It Falls (V.S.Q)",
+      "artist": "Jeff Williams",
+      "has_synced": false,
+      "path": "select/10_When_It_Falls_(V.S.Q)_Jeff_Williams.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hero v.s. Villain (Epilogue)",
+      "artist": "MF DOOM, E. Mason",
+      "has_synced": true,
+      "path": "select/11_Hero_v.s._Villain_(Epilogue)_MF_DOOM,_E._Mason.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Freaky Girls (feat. V.V.S.)",
+      "artist": "Lil Wyte",
+      "has_synced": true,
+      "path": "select/12_Freaky_Girls_(feat._V.V.S.)_Lil_Wyte.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "V.S.D.",
+      "artist": "Charly García",
+      "has_synced": true,
+      "path": "select/13_V.S.D._Charly_García.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "L.V.S. (Your Lady Waits)",
+      "artist": "Shayfer James",
+      "has_synced": true,
+      "path": "select/14_L.V.S._(Your_Lady_Waits)_Shayfer_James.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hero v.s. Villain (Epilogue) (feat. E. Mason)",
+      "artist": "MF DOOM",
+      "has_synced": true,
+      "path": "select/15_Hero_v.s._Villain_(Epilogue)_(feat._E._Mason)_MF_DOOM.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mini T.V.'s",
+      "artist": "Chad VanGaalen",
+      "has_synced": false,
+      "path": "select/16_Mini_T.V.'s_Chad_VanGaalen.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Thug Le (From \"Ladies V/s Ricky Bahl\")",
+      "artist": "Salim-Sulaiman, Vishal Dadlani & Shweta Pandit",
+      "has_synced": false,
+      "path": "select/17_Thug_Le_(From__Ladies_V_s_Ricky_Bahl_)_Salim-Sulaiman,_Vishal_Dadlani_&_Shweta_Pandit.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "V.S",
+      "artist": "大漠波新",
+      "has_synced": false,
+      "path": "select/pl_01_V.S_大漠波新.txt"
+    }
+  ]
+}
